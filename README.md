@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">Salut 👋, c'est NexForm</h1>
 
+<h3 align="center">Passionné d'informatique & en apprentissage constant</h3>
 
-**Nexform-star/Nexform-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## ⚙️ Domaines d'intérêt & Langages
 
-- 🔭 I’m currently working on devops
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+* **Langages :** HTML, CSS, JavaScript, Python
+* **Sécurité & Tech :** Pentest web, OSINT, Forensic, Réseaux, Micro-électronique
 
+---
+
+## 📚 En ce moment
+* **Objectif :** Apprendre, expérimenter et progresser en développement et en cybersécurité.
+
+---
+
+<p align="center">
+  Réalisé par NexForm
+</p>
