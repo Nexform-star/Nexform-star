@@ -17,7 +17,7 @@
 ---
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Nexform-star&theme=highcontrast&hide_border=true&locale=fr&timezone=fr)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Nexform-star&theme=highcontrast&hide_border=true&locale=fr)](https://git.io/streak-stats)
 
 
 <p align="center">
