@@ -32,3 +32,6 @@ I contribute to open-source projects to learn from real-world codebases, improve
 ---
 
 *Always learning, building, and improving.*
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Nexform-star&theme=highcontrast&hide_border=true&locale=fr)](https://git.io/streak-stats)
