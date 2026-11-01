@@ -25,6 +25,12 @@ I'm a self-taught developer focused on building projects, improving my programmi
 - **[GeoScope](https://github.com/Nexform-star/GeoScope)** — A Python tool for geospatial analysis and interactive maps.
 - **[Threat Intel](https://github.com/Nexform-star/Threat-Intel)** — A knowledge base for cybersecurity research and threat intelligence.
 
+# NEXTHON
+
+[![Version](https://img.shields.io/visual-studio-marketplace/v/nexform.nexthon-language)](https://marketplace.visualstudio.com/items?itemName=nexform.nexthon-language)
+[![Installs](https://img.shields.io/visual-studio-marketplace/i/nexform.nexthon-language)](https://marketplace.visualstudio.com/items?itemName=nexform.nexthon-language)
+[![Downloads](https://img.shields.io/visual-studio-marketplace/d/nexform.nexthon-language)](https://marketplace.visualstudio.com/items?itemName=nexform.nexthon-language)
+
 ## Open Source
 
 I contribute to open-source projects to learn from real-world codebases, improve my development workflow, and collaborate with other developers.
